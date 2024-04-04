@@ -9,8 +9,7 @@ Technologies Used
 HTML5
 CSS3
 JavaScript
-Bootstrap (optional)
-jQuery (optional)
+
 Contact Me
 I'm always open to new projects and collaborations. Feel free to reach out to me via:
 
