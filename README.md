@@ -16,6 +16,7 @@ I'm always open to new projects and collaborations. Feel free to reach out to me
 Email: devjaspermunene@gmail.com
 
 Let's create something amazing together!
+Link to the project: https://jaspermuneneportfolio.netlify.app/
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
